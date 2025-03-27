@@ -49,14 +49,3 @@ Stores payment details with:
 - **Apache Airflow** (ETL orchestration)
 - **Docker** (Containerized environment for PostgreSQL and PySpark)
 
-## How to Run the Project
-
-1. Start the PostgreSQL container and initialize the database:
-   ```sh
-   docker-compose up -d
-   ```
-2. Run the PySpark ETL process to clean the data:
-   ```sh
-   spark-submit etl_script.py
-   ```
-3. Verify the cleaned data in the Data Warehouse.
