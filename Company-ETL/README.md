@@ -1,4 +1,4 @@
-# Dirty PostgreSQL Database
+# Company-ETL
 
 ## Project Overview
 
