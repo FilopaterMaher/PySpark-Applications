@@ -1,0 +1,3 @@
+- install pyspark
+- download dataset and put it in data folder
+-- the link of data https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset
